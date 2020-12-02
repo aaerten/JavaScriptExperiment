@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color: red;
+}
+
+.form-section{
+    align-items: center;
+    text-align: center;
+    
+}
